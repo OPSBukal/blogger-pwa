@@ -1,17 +1,17 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "OPS Bukal",
+  "short_name": "OPS Bukal",
+  "description": "Saluran Informasi Pendidikan",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "id-ID",
   "orientation": "any",
   "start_url": "/?utm_source=homescreen",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
-  "theme_color": "#fff",
+  "theme_color": "#2e51a2",
   "icons": [
     {
       "src": "icons/favicon.ico",
@@ -90,22 +90,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
-      "icons": [
-        {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
+      "name": "Cetak Kartu",
+      "short_name": "Cetak Kartu",
+      "description": "Cetak Kartu NUPTK, Cetak Kartu NRG, Cetak Kartu NISN",
+      "url": "/search/label/Cetak?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
